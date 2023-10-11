@@ -11,7 +11,7 @@
 #                      PACKAGE EXECUTABLE NAME                     #
 #                                                                  #
 ####################################################################
-export PKG_BIN_NAME := tennis-kata
+export PKG_BIN_NAME := Encode-TestDesign-Kata
 
 
 ####################################################################
